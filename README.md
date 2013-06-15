@@ -7,9 +7,10 @@ Note: SpaceBattleGame_source is all of the source code of the private Space Batt
 Space Battle Game is an 3D dogfighting space simulator, inspired by games such as Star Fox 64 and Star Wars: Rogue Squadron.  The player controls a fighter ship, and gameplay primarily consists of dogfights with enemy fighters.  This game was made as a project for CS 638 - Software Engineering.
 
 <b>How to play:</b>  
-1.  Download Demo.zip from the SpaceBattleGame_source repository  
+Note: Space Battle Game is currently only available for Windows.  
+1.  Download Demo.zip by downloading the SpaceBattleGame_source repository from github, or by downloading Demo.zip from [Dropbox.com](https://www.dropbox.com/s/d4aplclt3d4bzdf/Demo.zip).  
 2.  Extract Demo.zip  
-3.  Run Space-Battle-Game.exe
+3.  Run Demo/Space-Battle-Game.exe
 
 <b>Controls:</b>  
 w/s - Move forward/backward  
