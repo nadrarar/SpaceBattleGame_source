@@ -32,15 +32,12 @@ Game Testers: Holly Link, Riad Nassar, Lucciano Correa
 4.  Heightfield Pack by stormwater - Pack of heightmap textures that can be used as data to create terrains in Unity.
 
 <b>Music:</b>  
-by [Chris Zabriskie](http://freemusicarchive.org/music/Chris_Zabriskie/):   
-Songs Used in the Levels:  
-  1.  Tutorial - Air Hockey Saloon  
-  2.  Brimstone - Chance, Luck, Errors in Nature, Fate, Destruction As a Finale  
-  3.  Jack Frost - CGI Snake  
-  4.  The Void - Is That You or Are You You?  
-  5.  Icy Waves - CGI Snake  
-  6.  Fire Waves - Chance, Luck, Errors in Nature, Fate, Destruction As a Finale  
-  7.  Menu - Divider
+1.  "Divider" - Used in Main Menu  
+2.  "Air Hockey Saloon" - Used in "Tutorial" Level  
+3.  "Chance, Luck, Errors in Nature, Fate, Destruction As a Finale" - Used in "Brimstone" and "Fire Waves" Levels  
+4.  "CGI Snake" - Used in "Jack Frost" and "Icy Waves" Levels  
+5.  "Is That You or Are You You?" - Used in "The Void" Level.  
+All music by [Chris Zabriskie](http://freemusicarchive.org/music/Chris_Zabriskie/).  
 
 <b>Contact Us:</b>  
 Problems? Opinions? Send an email to colin.g.mckay@gmail.com
