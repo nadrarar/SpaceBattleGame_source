@@ -8,7 +8,7 @@ Space Battle Game is an 3D dogfighting space simulator, inspired by games such a
 
 <b>How to play:</b>  
 Note: Space Battle Game is currently only available for Windows.  
-1.  Download Demo.zip by downloading the SpaceBattleGame_source repository from github, or by downloading Demo.zip from [Dropbox.com](https://www.dropbox.com/s/d4aplclt3d4bzdf/Demo.zip).  
+1.  Download Demo.zip by downloading the SpaceBattleGame_source repository from github, or by downloading Demo.zip from [Dropbox.com](https://www.dropbox.com/s/d4aplclt3d4bzdf/Demo.zip).  <b>Warning:</b> Google Chrome sometimes will give a warning that Demo.zip "is not commonly downloaded and could be dangerous."  Ignore this warning.  It seems to be caused by Demo.zip having a .exe file.  This .exe is used to run Space Battle Game, and so the warning is just a false positive.    
 2.  Extract Demo.zip  
 3.  Run Demo/Space-Battle-Game.exe
 
